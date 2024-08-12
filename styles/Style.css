@@ -58,8 +58,7 @@ body{
 }
 
 .imagem__erick__Sobre {
-    width: 70%;
-    height: 70%;
+    width: 50%;
     border-radius: 16px;
 }
 
@@ -147,6 +146,10 @@ body{
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .imagem__erick__Sobre {
+        width: 100%;
     }
 
 }
