@@ -57,6 +57,11 @@ body{
     border-radius: 16px;
 }
 
+.imagem__erick__Sobre {
+    width: 50%;
+    border-radius: 16px;
+}
+
 .apresentacao__conteudo{
     width: 50%;
     display: flex;
